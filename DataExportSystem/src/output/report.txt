@@ -1,0 +1,15 @@
+Data Export Report
+Generated : 2026-04-06 09:19:15
+Records   : 8
+============================================================
+
+| ID   | Name          | Department  | Salary | City       | 
++------+---------------+-------------+--------+------------+
+| 1001 | Arun Kumar    | Engineering | 72000  | Chennai    | 
+| 1002 | Priya Nair    | Marketing   | 65000  | Bengaluru  | 
+| 1003 | Rohan Mehta   | HR          | 58000  | Mumbai     | 
+| 1004 | Sneha Pillai  | Engineering | 80000  | Hyderabad  | 
+| 1005 | Vikram Singh  | Finance     | 69000  | Delhi      | 
+| 1006 | Divya Menon   | Marketing   | 61000  | Kochi      | 
+| 1007 | Karthik Raj   | Engineering | 75000  | Coimbatore | 
+| 1008 | Ananya Sharma | HR          | 55000  | Pune       | 
